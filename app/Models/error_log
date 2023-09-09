@@ -1,0 +1,4 @@
+[11-Oct-2022 01:02:52 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mxclogistics/public_html/bc/app/Models/User.php on line 12
+[11-Oct-2022 01:02:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mxclogistics/public_html/bc/app/Models/User.php on line 12
+[11-Oct-2022 01:02:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mxclogistics/public_html/bc/app/Models/User.php on line 12
+[11-Oct-2022 01:02:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/mxclogistics/public_html/bc/app/Models/User.php on line 12

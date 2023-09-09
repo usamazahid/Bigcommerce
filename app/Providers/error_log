@@ -1,0 +1,25 @@
+[11-Oct-2022 01:02:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AuthServiceProvider.php on line 9
+[11-Oct-2022 01:02:52 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AuthServiceProvider.php on line 9
+[11-Oct-2022 01:02:52 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AuthServiceProvider.php on line 9
+[11-Oct-2022 01:02:52 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AuthServiceProvider.php on line 9
+[11-Oct-2022 01:02:52 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AuthServiceProvider.php on line 9
+[11-Oct-2022 01:02:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/EventServiceProvider.php on line 11
+[11-Oct-2022 01:02:53 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AppServiceProvider.php on line 8
+[11-Oct-2022 01:02:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/EventServiceProvider.php on line 11
+[11-Oct-2022 01:02:54 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/BroadcastServiceProvider.php on line 9
+[11-Oct-2022 01:02:54 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/BroadcastServiceProvider.php on line 9
+[11-Oct-2022 01:02:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/EventServiceProvider.php on line 11
+[11-Oct-2022 01:02:56 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AppServiceProvider.php on line 8
+[11-Oct-2022 01:02:56 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AppServiceProvider.php on line 8
+[11-Oct-2022 01:02:56 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AppServiceProvider.php on line 8
+[11-Oct-2022 01:02:56 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/EventServiceProvider.php on line 11
+[11-Oct-2022 01:02:57 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/AppServiceProvider.php on line 8
+[11-Oct-2022 01:02:57 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/BroadcastServiceProvider.php on line 9
+[11-Oct-2022 01:02:57 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/BroadcastServiceProvider.php on line 9
+[11-Oct-2022 01:02:57 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/BroadcastServiceProvider.php on line 9
+[11-Oct-2022 01:02:58 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/mxclogistics/public_html/bc/app/Providers/EventServiceProvider.php on line 11
+[11-Oct-2022 01:02:58 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/mxclogistics/public_html/bc/app/Providers/RouteServiceProvider.php on line 20
+[11-Oct-2022 01:02:59 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/mxclogistics/public_html/bc/app/Providers/RouteServiceProvider.php on line 20
+[11-Oct-2022 01:02:59 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/mxclogistics/public_html/bc/app/Providers/RouteServiceProvider.php on line 20
+[11-Oct-2022 01:02:59 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/mxclogistics/public_html/bc/app/Providers/RouteServiceProvider.php on line 20
+[11-Oct-2022 01:03:00 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST), expecting variable (T_VARIABLE) in /home/mxclogistics/public_html/bc/app/Providers/RouteServiceProvider.php on line 20

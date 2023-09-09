@@ -1,0 +1,5 @@
+[11-Oct-2022 01:02:55 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mxclogistics/public_html/bc/app/Http/Kernel.php on line 8
+[11-Oct-2022 01:02:55 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mxclogistics/public_html/bc/app/Http/Kernel.php on line 8
+[11-Oct-2022 01:02:57 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mxclogistics/public_html/bc/app/Http/Kernel.php on line 8
+[11-Oct-2022 01:02:57 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mxclogistics/public_html/bc/app/Http/Kernel.php on line 8
+[11-Oct-2022 01:02:58 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/mxclogistics/public_html/bc/app/Http/Kernel.php on line 8

@@ -1,0 +1,17 @@
+[11-Oct-2022 01:01:58 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/web.php on line 16
+[11-Oct-2022 01:01:58 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/web.php on line 16
+[11-Oct-2022 01:01:58 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/web.php on line 16
+[11-Oct-2022 01:01:59 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/web.php on line 16
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mxclogistics/public_html/bc/routes/channels.php on line 16
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mxclogistics/public_html/bc/routes/channels.php on line 16
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Artisan' not found in /home/mxclogistics/public_html/bc/routes/console.php on line 17
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Artisan' not found in /home/mxclogistics/public_html/bc/routes/console.php on line 17
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mxclogistics/public_html/bc/routes/channels.php on line 16
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/api.php on line 17
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/api.php on line 17
+[11-Oct-2022 01:02:02 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Artisan' not found in /home/mxclogistics/public_html/bc/routes/console.php on line 17
+[11-Oct-2022 01:02:03 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/api.php on line 17
+[11-Oct-2022 01:02:05 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/web.php on line 16
+[11-Oct-2022 01:02:05 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mxclogistics/public_html/bc/routes/channels.php on line 16
+[11-Oct-2022 01:02:07 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Route' not found in /home/mxclogistics/public_html/bc/routes/api.php on line 17
+[11-Oct-2022 01:02:07 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Artisan' not found in /home/mxclogistics/public_html/bc/routes/console.php on line 17

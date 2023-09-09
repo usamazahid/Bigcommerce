@@ -1,0 +1,4 @@
+[11-Oct-2022 01:02:50 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mxclogistics/public_html/bc/app/Console/Kernel.php on line 9
+[11-Oct-2022 01:02:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mxclogistics/public_html/bc/app/Console/Kernel.php on line 9
+[11-Oct-2022 01:02:51 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mxclogistics/public_html/bc/app/Console/Kernel.php on line 9
+[11-Oct-2022 01:02:53 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/mxclogistics/public_html/bc/app/Console/Kernel.php on line 9
